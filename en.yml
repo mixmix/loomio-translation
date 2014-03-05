@@ -38,7 +38,10 @@ en:
     t33: "We're building public infrastructure for decision-making, held in the commons."
     t34: "By resourcing Loomio through crowdfunding, the project can be driven by the community of people who want it to happen, not by advertisers, or people who want to sell your data."
     t35: "We’ve done all the research and design, and now we  just have to build it."
-    t36: "To make this happen, we need to dedicate all of our time to it."
+
+    t36a: "An amazing crew has come together with exactly the right skills to make this happen: a development team that’s passionate about user-centred design, coupled with group process experts with decades of facilitation experience."
+    t36b: "To take this next step, the core team needs to dedicate all of their time to it without worrying about how they’re going to feed themselves."
+
     t37: "And that’s why right now we need your help."
     t38: "We’re embracing the gift economy and asking for your support, so we can give something amazing back to the world."
     t39: "You’re not just supporting a vision, you’re getting a tool that will make a difference in your own life, in your work, and in your community."
@@ -47,3 +50,4 @@ en:
     t42: "You can help to make that decision right now, by giving to this project."
     t43: "[Support Loomio]"
     t44: "[Share this campaign]"
+
