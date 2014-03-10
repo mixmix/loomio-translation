@@ -1,13 +1,5 @@
 en:
   video:
-    t01: |
-      [Loomio
-      open-source software
-      for collaborative decision-making]
-    t02: "The world needs a better way to make decisions together. The internet is changing what’s possible."
-    t03: "[REAL DEMOCRACY NEEDS TO INCLUDE EVERYONE]"
-    t04: "[DEMOCRACY = COLLABORATION.]"
-    t05: "[LET’S MAKE IT HAPPEN TOGETHER.]"
     t06: "Hi I’m ALANNA. I’m part of a small team of open-source developers, facilitators and activists here in New Zealand."
     t07: We’re working on a project called Loomio.
     t08: "It’s a simple online tool for collaborative decision-making."
@@ -27,12 +19,8 @@ en:
     t22: "build agreement and work through any concerns,"
     t23: "and decide a clear course of action that works for everyone."
     t24: "This flexible, dynamic process unlocks collective wisdom, coming to better outcomes together than any individual would have on their own."
-    t25: "[Mobile]"
     t26: "Loomio 1.0 will work on all devices, opening it up to parts of the world where computers are scarce."
-    t27: "[Safe]"
     t28: "You can host it yourself, to take complete control of your own privacy."
-    t29: "[Easy]"
-    t30: "[Accessible]"
     t31: "Most importantly, it’s designed to be super easy to use and accessible, so anyone can participate."
     t32: "Loomio will always be free and open-source software."
     t33: "We're building public infrastructure for decision-making, held in the commons."
@@ -48,6 +36,3 @@ en:
     t40: "So it’s up to all of us."
     t41: "Will this missing piece of the internet be developed on open platforms, for the public good?"
     t42: "You can help to make that decision right now, by giving to this project."
-    t43: "[Support Loomio]"
-    t44: "[Share this campaign]"
-
