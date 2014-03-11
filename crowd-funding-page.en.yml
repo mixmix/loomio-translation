@@ -1,0 +1,47 @@
+en:
+  cf:
+    support_us: "Support us to give something amazing back to the world"
+
+    title:
+      main:"Real democracy needs to include everyone"
+      better_way: "THE WORLD NEEDS A BETTER WAY TO MAKE DECISIONS TOGETHER."
+      campaign_will_fund: "THIS CAMPAIGN WILL FUND THE DEVELOPMENT OF LOOMIO 1.0, WHICH WILL BE:"
+      #real_democracy: "REAL DEMOCRACY NEEDS TO INCLUDE EVERYONE"  upper of title
+
+      who_are_we: "WHO ARE WE? WHY US?"
+      what_fund: "WHAT IS THIS CAMPAIGN GOING TO FUND?"
+      bigger_vision: "THE BIGGER VISION"
+      what_people: "WHAT PEOPLE ARE SAYING ABOUT LOOMIO"
+
+    body:
+      democracy: "Democracy isn’t just about politics - it’s people getting together and deciding how things should be. It’s a skill we can practice with people wherever we are: in our workplaces, our schools, and our communities."
+      loomio_is: "Loomio is a user-friendly tool for collaborative decision-making: not majority-rules polling, but actually coming up with solutions that work for everyone. We’re a small team in New Zealand, and we’ve built a prototype that people are already doing great things with. Now we’re crowdfunding so we can build the real thing: a new tool for truly inclusive decision-making."
+      list1:
+        a: "mobile, so it works across all devices"
+        b: "safe, so you can control your own data and privacy"
+        c: "accessible, so people of all abilities can participate"
+        d: "free and open-source software, licensed under AGPL3"
+        e: "as easy to use as email"
+
+      our_mission: "Our mission is to make it easy for anyone anywhere to participate in decisions that affect them."
+      the_internet: "The internet has made it so easy to talk to each other, but there’s no easy way to make decisions together online. Loomio bridges that gap, providing space for people to come together and talk things through, hear all perspectives, and reach clear outcomes. It’s like a missing piece of the internet, and we need your support to build it."
+      we_are: "We’re a small team of open-source developers, facilitators and activists in New Zealand, organised as a social tech cooperative. We’ve got the skills we need and we’ve already delivered a lot with very little. We’re supported by a social impact tech hub called Enspiral."
+      after_18: "After 18 months of learning from the thousands of people using our prototype, we know exactly what an inclusive tool for group decision-making needs to be. We’re passionate about user-centred design and we’re expert in group process, with decades of facilitation experience on the team."
+      we_have_taken: "We’ve taken everything we’ve learnt from the thousands of users of the beta prototype, and designed a whole new platform that will make online decision-making truly accessible."
+      100k_will: "$100k will fund the core team to dedicate all of their time to get a first release out before the end of this year. Our first milestone for a stable release in November 2014. This will include:"
+      list2:
+        a: "A lightweight mobile interface built in AngularJS and HTML5."
+        b: "A Docker file for easy local installations."
+        c: "Compatibility with screen-readers and other assistive technologies."
+        d: "Multi-lingual support (we support 17 languages so far, with more on the way)"
+      if_we_raised: "If we raise $252,108, Callaghan Innovation (a large innovation funder in New Zealand) has approved a matched-funding grant, which means every $1 we raise is multiplied by 1.4x. This will enable us to work on:"
+      list3:
+        a: "decentralized/federated architecture"
+        b: "an SMS-based decision-making framework for parts of the world where mobile internet is out of reach"
+        c: "a plug-in architecture to enable an ecosystem of open-source plug-ins for different discussion and decision-making protocols that will scale to much larger groups"
+        d: "an API for interoperability with other online tools"
+      you_are_not_just: "You’re not just supporting a vision, you’re getting a tool that will make a real difference in your own life, in your work, and in your community. So it’s up to all of us. Will this missing piece of the internet be developed on open platforms, for the public good? That’s a decision that you can help to make right now."
+
+
+
+
